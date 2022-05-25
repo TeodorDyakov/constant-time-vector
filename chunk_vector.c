@@ -47,7 +47,7 @@ int main(){
     }
     // arr[0][0] = 5;
     for(int i = 0; i < 100; i++){
-        printf(%d , get(i));
+        printf("%d " , get(i));
     }
     
 }
